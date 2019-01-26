@@ -53,7 +53,7 @@ namespace c0732152
         public Village NextVillage;
         public String VillageName;
         public bool isAstrildeHere = false;
-        public Village() { }
+        public Village() {}
     }
 
 }
