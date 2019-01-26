@@ -14,10 +14,17 @@ namespace c0732152
         }
     }
 
-    class Node
+    class Countryside
     {
-        Node PreviousNode;
+        // how will i make some village?
+    }
 
-        Node NextNode;
+    class village
+    {
+        village Previousvillage;
+        village Nextvillage;
+        string villagename;
+        bool isAstrildeHere = false;
+        public village() { }
     }
 }
