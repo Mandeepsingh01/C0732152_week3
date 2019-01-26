@@ -16,7 +16,7 @@ namespace c0732152
 
     class Countryside
     {
-        // how will i make some village?
+        // how will i make some village?//
     }
 
     class village
